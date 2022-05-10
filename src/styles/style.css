@@ -162,6 +162,7 @@ img, img.resto-item__header__poster {
      width: 100%;
      text-align: center;
      background-image: url('/images/heros/hero-image_4.jpg');
+     background-repeat: no-repeat;
      background-position: center;
      background-color: #29BB89;
  }
