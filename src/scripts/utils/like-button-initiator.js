@@ -1,6 +1,6 @@
 import { async } from 'regenerator-runtime';
 import FavoriteRestaurantIdb from '../data/favoriterestaurant-idb';
-import { createLikeButtonTemplate, createLikedButtonTemplate } from '../views/templates/template-creator';
+import { createLikeRestoButtonTemplate, createUnlikeRestoButtonTemplate } from '../views/templates/template-creator';
 
 const LikeButtonInitiator = {
   async init({ LikeButtonContainer, resto }) {
@@ -13,20 +13,20 @@ const LikeButtonInitiator = {
   async _renderButton() {
     const { id } = this._resto;
 
-    if (await this._isMovieExist(id)) {
+    if (await this._isRestoExist(id)) {
       this._renderLiked();
     } else {
       this._renderLike();
     }
   },
 
-  async _isMovieExist(id) {
+  async _isRestoExist(id) {
     const resto = await FavoriteRestaurantIdb.getResto(id);
     return !!resto;
   },
 
   _renderLike() {
-    this._likeButtonContainer.innerHTML = createLikeButtonTemplate();
+    this._likeButtonContainer.innerHTML = createLikeRestoButtonTemplate();
 
     const likeButton = document.querySelector('#likeButton');
     likeButton.addEventListener('click', async () => {
@@ -36,7 +36,7 @@ const LikeButtonInitiator = {
   },
 
   _renderLiked() {
-    this._likeButtonContainer.innerHTML = createLikedButtonTemplate();
+    this._likeButtonContainer.innerHTML = createUnlikeRestoButtonTemplate();
 
     const likeButton = document.querySelector('#likeButton');
     likeButton.addEventListener('click', async () => {

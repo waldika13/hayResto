@@ -13,14 +13,14 @@ const LikeButtonPresenter = {
   async _renderButton() {
     const { id } = this._resto;
 
-    if (await this._isMovieExist(id)) {
+    if (await this._isRestoExist(id)) {
       this._renderLiked();
     } else {
       this._renderLike();
     }
   },
 
-  async _isMovieExist(id) {
+  async _isRestoExist(id) {
     const resto = await FavoriteRestaurantIdb.getResto(id);
     return !!resto;
   },

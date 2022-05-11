@@ -2,9 +2,9 @@
   "errors": [],
   "warnings": [],
   "version": "4.43.0",
-  "hash": "f35b66be145b331536dc",
-  "time": 46125,
-  "builtAt": 1652240412662,
+  "hash": "dab50f6acb6a8ac8f8d6",
+  "time": 47014,
+  "builtAt": 1652246862896,
   "publicPath": "",
   "outputPath": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
   "assets": [
     {
       "name": "defaultVendors~main~678f84af.bundle.js",
-      "size": 10161,
+      "size": 10163,
       "chunks": [
         0
       ],
@@ -27,7 +27,7 @@
     },
     {
       "name": "defaultVendors~main~d939e436.bundle.js",
-      "size": 15944,
+      "size": 15946,
       "chunks": [
         1
       ],
@@ -143,7 +143,7 @@
     },
     {
       "name": "main~29d6ecf2.bundle.js",
-      "size": 34556,
+      "size": 30737,
       "chunks": [
         2
       ],
@@ -217,7 +217,7 @@
       "files": [
         "defaultVendors~main~678f84af.bundle.js"
       ],
-      "hash": "d3f19bae00b12537bef8",
+      "hash": "9a2bdd699dac7eff0870",
       "siblings": [
         1,
         2
@@ -240,9 +240,9 @@
           "chunks": [
             0
           ],
-          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\regenerator-runtime\\runtime.js",
-          "issuerId": 2,
-          "issuerName": "./node_modules/regenerator-runtime/runtime.js",
+          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
+          "issuerId": 5,
+          "issuerName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
           "issuerPath": [
             {
               "id": null,
@@ -250,9 +250,9 @@
               "name": "./src/scripts/index.js"
             },
             {
-              "id": 2,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\regenerator-runtime\\runtime.js",
-              "name": "./node_modules/regenerator-runtime/runtime.js"
+              "id": 5,
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
+              "name": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js"
             }
           ],
           "failed": false,
@@ -279,7 +279,7 @@
               "loc": "1:0-41"
             },
             {
-              "moduleId": 7,
+              "moduleId": 5,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
               "module": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
               "moduleName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
@@ -325,7 +325,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -334,7 +334,7 @@
               "loc": "3:0-29"
             },
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -352,70 +352,10 @@
         },
         {
           "id": 3,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
-          "name": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
-          "index": 6,
-          "index2": 4,
-          "size": 6804,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            0
-          ],
-          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "issuerId": 8,
-          "issuerName": "./src/styles/style.css",
-          "issuerPath": [
-            {
-              "id": null,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-              "name": "./src/scripts/index.js"
-            },
-            {
-              "id": 8,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-              "name": "./src/styles/style.css"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "assets": [],
-          "reasons": [
-            {
-              "moduleId": 8,
-              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-              "module": "./src/styles/style.css",
-              "moduleName": "./src/styles/style.css",
-              "type": "cjs require",
-              "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
-              "loc": "1:10-94"
-            },
-            {
-              "moduleId": 10,
-              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-              "module": "./src/styles/responsive.css",
-              "moduleName": "./src/styles/responsive.css",
-              "type": "cjs require",
-              "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
-              "loc": "1:10-94"
-            }
-          ],
-          "usedExports": true,
-          "providedExports": null,
-          "optimizationBailout": [
-            "ModuleConcatenation bailout: Module is not an ECMAScript module"
-          ],
-          "depth": 2
-        },
-        {
-          "id": 5,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\serviceworker-webpack-plugin\\lib\\runtime.js",
           "name": "./node_modules/serviceworker-webpack-plugin/lib/runtime.js",
-          "index": 29,
-          "index2": 27,
+          "index": 27,
+          "index2": 25,
           "size": 569,
           "cacheable": true,
           "built": true,
@@ -445,7 +385,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -454,7 +394,7 @@
               "loc": "5:0-63"
             },
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -466,6 +406,57 @@
           "usedExports": [
             "default"
           ],
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 2
+        },
+        {
+          "id": 7,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+          "name": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "index": 6,
+          "index2": 4,
+          "size": 6804,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "issuerId": 6,
+          "issuerName": "./src/styles/style.min.css",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
+              "name": "./src/scripts/index.js"
+            },
+            {
+              "id": 6,
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+              "name": "./src/styles/style.min.css"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 6,
+              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+              "module": "./src/styles/style.min.css",
+              "moduleName": "./src/styles/style.min.css",
+              "type": "cjs require",
+              "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+              "loc": "1:10-94"
+            }
+          ],
+          "usedExports": true,
           "providedExports": null,
           "optimizationBailout": [
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
@@ -498,7 +489,7 @@
       "files": [
         "defaultVendors~main~d939e436.bundle.js"
       ],
-      "hash": "e16d75ae98f6f3017220",
+      "hash": "13c4d90c12babb673380",
       "siblings": [
         0,
         2
@@ -537,7 +528,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 7,
+              "moduleId": 5,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
               "module": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
               "moduleName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
@@ -546,7 +537,7 @@
               "loc": "16:12-32"
             },
             {
-              "moduleId": 7,
+              "moduleId": 5,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
               "module": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
               "moduleName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
@@ -555,7 +546,7 @@
               "loc": "18:4-34"
             },
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -573,75 +564,10 @@
         },
         {
           "id": 4,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\runtime\\api.js",
-          "name": "./node_modules/css-loader/dist/runtime/api.js",
-          "index": 8,
-          "index2": 5,
-          "size": 2517,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            1
-          ],
-          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "issuerId": 11,
-          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "issuerPath": [
-            {
-              "id": null,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-              "name": "./src/scripts/index.js"
-            },
-            {
-              "id": 10,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-              "name": "./src/styles/responsive.css"
-            },
-            {
-              "id": 11,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "assets": [],
-          "reasons": [
-            {
-              "moduleId": 9,
-              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-              "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.css",
-              "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.css",
-              "type": "cjs require",
-              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
-              "loc": "2:34-94"
-            },
-            {
-              "moduleId": 11,
-              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-              "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-              "type": "cjs require",
-              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
-              "loc": "2:34-94"
-            }
-          ],
-          "usedExports": true,
-          "providedExports": null,
-          "optimizationBailout": [
-            "ModuleConcatenation bailout: Module is not an ECMAScript module"
-          ],
-          "depth": 3
-        },
-        {
-          "id": 6,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\idb\\build\\index.js 940ca97b00821de1a64bc1fb5acf6dd2",
           "name": "./node_modules/idb/build/index.js + 1 modules",
-          "index": 23,
-          "index2": 18,
+          "index": 21,
+          "index2": 16,
           "size": 13534,
           "cacheable": true,
           "built": true,
@@ -660,7 +586,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -669,7 +595,7 @@
               "loc": "5:0-29"
             },
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -694,8 +620,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\idb\\build\\index.js",
               "name": "./node_modules/idb/build/index.js",
-              "index": 23,
-              "index2": 18,
+              "index": 21,
+              "index2": 16,
               "size": 6131,
               "cacheable": true,
               "built": true,
@@ -738,7 +664,7 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleId": 14,
+                  "moduleId": 12,
                   "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
                   "module": "./src/scripts/index.js + 14 modules",
                   "moduleName": "./src/scripts/index.js + 14 modules",
@@ -747,7 +673,7 @@
                   "loc": "5:0-29"
                 },
                 {
-                  "moduleId": 14,
+                  "moduleId": 12,
                   "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
                   "module": "./src/scripts/index.js + 14 modules",
                   "moduleName": "./src/scripts/index.js + 14 modules",
@@ -772,8 +698,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\idb\\build\\wrap-idb-value.js",
               "name": "./node_modules/idb/build/wrap-idb-value.js",
-              "index": 24,
-              "index2": 17,
+              "index": 22,
+              "index2": 15,
               "size": 7403,
               "cacheable": true,
               "built": true,
@@ -920,7 +846,7 @@
           "filteredModules": 0
         },
         {
-          "id": 7,
+          "id": 5,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
           "name": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
           "index": 3,
@@ -949,7 +875,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -964,6 +890,62 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 1
+        },
+        {
+          "id": 9,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "name": "./node_modules/css-loader/dist/runtime/api.js",
+          "index": 8,
+          "index2": 5,
+          "size": 2517,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            1
+          ],
+          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "issuerId": 8,
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css",
+          "issuerPath": [
+            {
+              "id": null,
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
+              "name": "./src/scripts/index.js"
+            },
+            {
+              "id": 6,
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+              "name": "./src/styles/style.min.css"
+            },
+            {
+              "id": 8,
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css"
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 8,
+              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css",
+              "type": "cjs require",
+              "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "2:34-94"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 3
         }
       ],
       "filteredModules": 0,
@@ -983,14 +965,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 55923,
+      "size": 51541,
       "names": [
         "main~29d6ecf2"
       ],
       "files": [
         "main~29d6ecf2.bundle.js"
       ],
-      "hash": "6879263c3d3b92ca46fe",
+      "hash": "92f97d85c5e2ada5a114",
       "siblings": [
         0,
         1
@@ -1000,12 +982,12 @@
       "childrenByOrder": {},
       "modules": [
         {
-          "id": 8,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "name": "./src/styles/style.css",
+          "id": 6,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "name": "./src/styles/style.min.css",
           "index": 5,
           "index2": 7,
-          "size": 525,
+          "size": 529,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1029,13 +1011,13 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
               "type": "harmony side effect evaluation",
-              "userRequest": "../styles/style.css",
-              "loc": "4:0-29"
+              "userRequest": "../styles/style.min.css",
+              "loc": "4:0-33"
             }
           ],
           "usedExports": false,
@@ -1046,12 +1028,12 @@
           "depth": 1
         },
         {
-          "id": 9,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.css",
+          "id": 8,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css",
           "index": 7,
           "index2": 6,
-          "size": 7391,
+          "size": 7207,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1059,9 +1041,9 @@
           "chunks": [
             2
           ],
-          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "issuerId": 8,
-          "issuerName": "./src/styles/style.css",
+          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "issuerId": 6,
+          "issuerName": "./src/styles/style.min.css",
           "issuerPath": [
             {
               "id": null,
@@ -1069,9 +1051,9 @@
               "name": "./src/scripts/index.js"
             },
             {
-              "id": 8,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-              "name": "./src/styles/style.css"
+              "id": 6,
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+              "name": "./src/styles/style.min.css"
             }
           ],
           "failed": false,
@@ -1080,13 +1062,13 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 8,
-              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-              "module": "./src/styles/style.css",
-              "moduleName": "./src/styles/style.css",
+              "moduleId": 6,
+              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+              "module": "./src/styles/style.min.css",
+              "moduleName": "./src/styles/style.min.css",
               "type": "cjs require",
-              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js!./style.css",
-              "loc": "2:26-92"
+              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js!./style.min.css",
+              "loc": "2:26-96"
             }
           ],
           "usedExports": true,
@@ -1098,107 +1080,10 @@
         },
         {
           "id": 10,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "name": "./src/styles/responsive.css",
-          "index": 9,
-          "index2": 9,
-          "size": 530,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            2
-          ],
-          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-          "issuerId": null,
-          "issuerName": "./src/scripts/index.js",
-          "issuerPath": [
-            {
-              "id": null,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-              "name": "./src/scripts/index.js"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "assets": [],
-          "reasons": [
-            {
-              "moduleId": 14,
-              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
-              "module": "./src/scripts/index.js + 14 modules",
-              "moduleName": "./src/scripts/index.js + 14 modules",
-              "type": "harmony side effect evaluation",
-              "userRequest": "../styles/responsive.css",
-              "loc": "5:0-34"
-            }
-          ],
-          "usedExports": false,
-          "providedExports": null,
-          "optimizationBailout": [
-            "ModuleConcatenation bailout: Module is not an ECMAScript module"
-          ],
-          "depth": 1
-        },
-        {
-          "id": 11,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "index": 10,
-          "index2": 8,
-          "size": 3665,
-          "cacheable": true,
-          "built": true,
-          "optional": false,
-          "prefetched": false,
-          "chunks": [
-            2
-          ],
-          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "issuerId": 10,
-          "issuerName": "./src/styles/responsive.css",
-          "issuerPath": [
-            {
-              "id": null,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-              "name": "./src/scripts/index.js"
-            },
-            {
-              "id": 10,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-              "name": "./src/styles/responsive.css"
-            }
-          ],
-          "failed": false,
-          "errors": 0,
-          "warnings": 0,
-          "assets": [],
-          "reasons": [
-            {
-              "moduleId": 10,
-              "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-              "module": "./src/styles/responsive.css",
-              "moduleName": "./src/styles/responsive.css",
-              "type": "cjs require",
-              "userRequest": "!!../../node_modules/css-loader/dist/cjs.js!./responsive.css",
-              "loc": "2:26-97"
-            }
-          ],
-          "usedExports": true,
-          "providedExports": null,
-          "optimizationBailout": [
-            "ModuleConcatenation bailout: Module is not an ECMAScript module"
-          ],
-          "depth": 2
-        },
-        {
-          "id": 12,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\component\\app-bar.js",
           "name": "./src/scripts/component/app-bar.js",
-          "index": 26,
-          "index2": 24,
+          "index": 24,
+          "index2": 22,
           "size": 5698,
           "cacheable": true,
           "built": true,
@@ -1228,7 +1113,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -1245,11 +1130,11 @@
           "depth": 2
         },
         {
-          "id": 13,
+          "id": 11,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\component\\hero-inner.js",
           "name": "./src/scripts/component/hero-inner.js",
-          "index": 27,
-          "index2": 25,
+          "index": 25,
+          "index2": 23,
           "size": 5200,
           "cacheable": true,
           "built": true,
@@ -1279,7 +1164,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -1296,12 +1181,12 @@
           "depth": 2
         },
         {
-          "id": 14,
+          "id": 12,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "name": "./src/scripts/index.js + 14 modules",
           "index": 0,
-          "index2": 29,
-          "size": 32914,
+          "index2": 27,
+          "size": 32907,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -1341,8 +1226,8 @@
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
               "name": "./src/scripts/index.js",
               "index": 0,
-              "index2": 29,
-              "size": 607,
+              "index2": 27,
+              "size": 576,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -1378,8 +1263,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\app.js",
               "name": "./src/scripts/views/app.js",
-              "index": 11,
-              "index2": 26,
+              "index": 9,
+              "index2": 24,
               "size": 4718,
               "cacheable": true,
               "built": true,
@@ -1408,7 +1293,7 @@
                   "moduleName": "./src/scripts/index.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./views/app",
-                  "loc": "6:0-30"
+                  "loc": "5:0-30"
                 },
                 {
                   "moduleId": null,
@@ -1417,7 +1302,7 @@
                   "moduleName": "./src/scripts/index.js",
                   "type": "harmony import specifier",
                   "userRequest": "./views/app",
-                  "loc": "8:14-17"
+                  "loc": "7:14-17"
                 }
               ],
               "usedExports": [
@@ -1433,8 +1318,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\utils\\sw-register.js",
               "name": "./src/scripts/utils/sw-register.js",
-              "index": 28,
-              "index2": 28,
+              "index": 26,
+              "index2": 26,
               "size": 1584,
               "cacheable": true,
               "built": true,
@@ -1463,7 +1348,7 @@
                   "moduleName": "./src/scripts/index.js",
                   "type": "harmony side effect evaluation",
                   "userRequest": "./utils/sw-register",
-                  "loc": "7:0-45"
+                  "loc": "6:0-45"
                 },
                 {
                   "moduleId": null,
@@ -1472,7 +1357,7 @@
                   "moduleName": "./src/scripts/index.js",
                   "type": "harmony import specifier",
                   "userRequest": "./utils/sw-register",
-                  "loc": "19:2-12"
+                  "loc": "18:2-12"
                 }
               ],
               "usedExports": [
@@ -1488,8 +1373,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\utils\\drawer-initiator.js",
               "name": "./src/scripts/utils/drawer-initiator.js",
-              "index": 12,
-              "index2": 10,
+              "index": 10,
+              "index2": 8,
               "size": 673,
               "cacheable": true,
               "built": true,
@@ -1548,8 +1433,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\routes\\url-parser.js",
               "name": "./src/scripts/routes/url-parser.js",
-              "index": 13,
-              "index2": 11,
+              "index": 11,
+              "index2": 9,
               "size": 874,
               "cacheable": true,
               "built": true,
@@ -1626,8 +1511,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\routes\\routes.js",
               "name": "./src/scripts/routes/routes.js",
-              "index": 14,
-              "index2": 23,
+              "index": 12,
+              "index2": 21,
               "size": 277,
               "cacheable": true,
               "built": true,
@@ -1686,8 +1571,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\explore-resto.js",
               "name": "./src/scripts/views/pages/explore-resto.js",
-              "index": 15,
-              "index2": 16,
+              "index": 13,
+              "index2": 14,
               "size": 2361,
               "cacheable": true,
               "built": true,
@@ -1760,8 +1645,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
               "name": "./src/scripts/views/pages/detail.js",
-              "index": 20,
-              "index2": 21,
+              "index": 18,
+              "index2": 19,
               "size": 2952,
               "cacheable": true,
               "built": true,
@@ -1825,8 +1710,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\like.js",
               "name": "./src/scripts/views/pages/like.js",
-              "index": 25,
-              "index2": 22,
+              "index": 23,
+              "index2": 20,
               "size": 2658,
               "cacheable": true,
               "built": true,
@@ -1890,8 +1775,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\data\\restoapi-source.js",
               "name": "./src/scripts/data/restoapi-source.js",
-              "index": 16,
-              "index2": 14,
+              "index": 14,
+              "index2": 12,
               "size": 3573,
               "cacheable": true,
               "built": true,
@@ -1978,9 +1863,9 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\templates\\template-creator.js",
               "name": "./src/scripts/views/templates/template-creator.js",
-              "index": 19,
-              "index2": 15,
-              "size": 3293,
+              "index": 17,
+              "index2": 13,
+              "size": 3322,
               "cacheable": true,
               "built": true,
               "optional": false,
@@ -2117,8 +2002,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\data\\favoriterestaurant-idb.js",
               "name": "./src/scripts/data/favoriterestaurant-idb.js",
-              "index": 22,
-              "index2": 19,
+              "index": 20,
+              "index2": 17,
               "size": 3928,
               "cacheable": true,
               "built": true,
@@ -2223,8 +2108,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\utils\\like-button-presenter.js",
               "name": "./src/scripts/utils/like-button-presenter.js",
-              "index": 21,
-              "index2": 20,
+              "index": 19,
+              "index2": 18,
               "size": 4831,
               "cacheable": true,
               "built": true,
@@ -2293,17 +2178,17 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\globals\\config.js",
               "name": "./src/scripts/globals/config.js",
-              "index": 18,
-              "index2": 12,
+              "index": 16,
+              "index2": 10,
               "size": 307,
               "cacheable": true,
               "built": true,
               "optional": false,
               "prefetched": false,
               "chunks": [],
-              "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\data\\favoriterestaurant-idb.js",
+              "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\templates\\template-creator.js",
               "issuerId": null,
-              "issuerName": "./src/scripts/data/favoriterestaurant-idb.js",
+              "issuerName": "./src/scripts/views/templates/template-creator.js",
               "issuerPath": [
                 {
                   "id": null,
@@ -2322,13 +2207,13 @@
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\like.js",
-                  "name": "./src/scripts/views/pages/like.js"
+                  "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\explore-resto.js",
+                  "name": "./src/scripts/views/pages/explore-resto.js"
                 },
                 {
                   "id": null,
-                  "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\data\\favoriterestaurant-idb.js",
-                  "name": "./src/scripts/data/favoriterestaurant-idb.js"
+                  "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\templates\\template-creator.js",
+                  "name": "./src/scripts/views/templates/template-creator.js"
                 }
               ],
               "failed": false,
@@ -2424,7 +2309,7 @@
                   "moduleName": "./src/scripts/views/templates/template-creator.js",
                   "type": "harmony import specifier",
                   "userRequest": "../../globals/config",
-                  "loc": "14:224-230"
+                  "loc": "14:253-259"
                 }
               ],
               "usedExports": [
@@ -2440,8 +2325,8 @@
               "id": null,
               "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\globals\\api-endpoint.js",
               "name": "./src/scripts/globals/api-endpoint.js",
-              "index": 17,
-              "index2": 13,
+              "index": 15,
+              "index2": 11,
               "size": 233,
               "cacheable": true,
               "built": true,
@@ -2568,7 +2453,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 7,
+          "moduleId": 5,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
           "module": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
           "moduleName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
@@ -2577,7 +2462,7 @@
           "loc": "16:12-32"
         },
         {
-          "moduleId": 7,
+          "moduleId": 5,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
           "module": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
           "moduleName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
@@ -2586,7 +2471,7 @@
           "loc": "18:4-34"
         },
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -2616,9 +2501,9 @@
       "chunks": [
         0
       ],
-      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\regenerator-runtime\\runtime.js",
-      "issuerId": 2,
-      "issuerName": "./node_modules/regenerator-runtime/runtime.js",
+      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
+      "issuerId": 5,
+      "issuerName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
       "issuerPath": [
         {
           "id": null,
@@ -2626,9 +2511,9 @@
           "name": "./src/scripts/index.js"
         },
         {
-          "id": 2,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\regenerator-runtime\\runtime.js",
-          "name": "./node_modules/regenerator-runtime/runtime.js"
+          "id": 5,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
+          "name": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js"
         }
       ],
       "failed": false,
@@ -2655,7 +2540,7 @@
           "loc": "1:0-41"
         },
         {
-          "moduleId": 7,
+          "moduleId": 5,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
           "module": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
           "moduleName": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
@@ -2701,7 +2586,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -2710,7 +2595,7 @@
           "loc": "3:0-29"
         },
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -2728,135 +2613,10 @@
     },
     {
       "id": 3,
-      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
-      "name": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
-      "index": 6,
-      "index2": 4,
-      "size": 6804,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        0
-      ],
-      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-      "issuerId": 8,
-      "issuerName": "./src/styles/style.css",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-          "name": "./src/scripts/index.js"
-        },
-        {
-          "id": 8,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "name": "./src/styles/style.css"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "assets": [],
-      "reasons": [
-        {
-          "moduleId": 8,
-          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "module": "./src/styles/style.css",
-          "moduleName": "./src/styles/style.css",
-          "type": "cjs require",
-          "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
-          "loc": "1:10-94"
-        },
-        {
-          "moduleId": 10,
-          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "module": "./src/styles/responsive.css",
-          "moduleName": "./src/styles/responsive.css",
-          "type": "cjs require",
-          "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
-          "loc": "1:10-94"
-        }
-      ],
-      "usedExports": true,
-      "providedExports": null,
-      "optimizationBailout": [
-        "ModuleConcatenation bailout: Module is not an ECMAScript module"
-      ],
-      "depth": 2
-    },
-    {
-      "id": 4,
-      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\runtime\\api.js",
-      "name": "./node_modules/css-loader/dist/runtime/api.js",
-      "index": 8,
-      "index2": 5,
-      "size": 2517,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        1
-      ],
-      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-      "issuerId": 11,
-      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-          "name": "./src/scripts/index.js"
-        },
-        {
-          "id": 10,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "name": "./src/styles/responsive.css"
-        },
-        {
-          "id": 11,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "assets": [],
-      "reasons": [
-        {
-          "moduleId": 9,
-          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.css",
-          "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.css",
-          "type": "cjs require",
-          "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
-          "loc": "2:34-94"
-        },
-        {
-          "moduleId": 11,
-          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-          "type": "cjs require",
-          "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
-          "loc": "2:34-94"
-        }
-      ],
-      "usedExports": true,
-      "providedExports": null,
-      "optimizationBailout": [
-        "ModuleConcatenation bailout: Module is not an ECMAScript module"
-      ],
-      "depth": 3
-    },
-    {
-      "id": 5,
       "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\serviceworker-webpack-plugin\\lib\\runtime.js",
       "name": "./node_modules/serviceworker-webpack-plugin/lib/runtime.js",
-      "index": 29,
-      "index2": 27,
+      "index": 27,
+      "index2": 25,
       "size": 569,
       "cacheable": true,
       "built": true,
@@ -2886,7 +2646,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -2895,7 +2655,7 @@
           "loc": "5:0-63"
         },
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -2914,11 +2674,11 @@
       "depth": 2
     },
     {
-      "id": 6,
+      "id": 4,
       "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\idb\\build\\index.js 940ca97b00821de1a64bc1fb5acf6dd2",
       "name": "./node_modules/idb/build/index.js + 1 modules",
-      "index": 23,
-      "index2": 18,
+      "index": 21,
+      "index2": 16,
       "size": 13534,
       "cacheable": true,
       "built": true,
@@ -2937,7 +2697,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -2946,7 +2706,7 @@
           "loc": "5:0-29"
         },
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -2971,8 +2731,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\idb\\build\\index.js",
           "name": "./node_modules/idb/build/index.js",
-          "index": 23,
-          "index2": 18,
+          "index": 21,
+          "index2": 16,
           "size": 6131,
           "cacheable": true,
           "built": true,
@@ -3015,7 +2775,7 @@
           "assets": [],
           "reasons": [
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -3024,7 +2784,7 @@
               "loc": "5:0-29"
             },
             {
-              "moduleId": 14,
+              "moduleId": 12,
               "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
               "module": "./src/scripts/index.js + 14 modules",
               "moduleName": "./src/scripts/index.js + 14 modules",
@@ -3049,8 +2809,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\idb\\build\\wrap-idb-value.js",
           "name": "./node_modules/idb/build/wrap-idb-value.js",
-          "index": 24,
-          "index2": 17,
+          "index": 22,
+          "index2": 15,
           "size": 7403,
           "cacheable": true,
           "built": true,
@@ -3197,7 +2957,7 @@
       "filteredModules": 0
     },
     {
-      "id": 7,
+      "id": 5,
       "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\lazysizes\\plugins\\parent-fit\\ls.parent-fit.js",
       "name": "./node_modules/lazysizes/plugins/parent-fit/ls.parent-fit.js",
       "index": 3,
@@ -3226,7 +2986,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -3243,12 +3003,12 @@
       "depth": 1
     },
     {
-      "id": 8,
-      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-      "name": "./src/styles/style.css",
+      "id": 6,
+      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+      "name": "./src/styles/style.min.css",
       "index": 5,
       "index2": 7,
-      "size": 525,
+      "size": 529,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -3272,13 +3032,13 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
           "type": "harmony side effect evaluation",
-          "userRequest": "../styles/style.css",
-          "loc": "4:0-29"
+          "userRequest": "../styles/style.min.css",
+          "loc": "4:0-33"
         }
       ],
       "usedExports": false,
@@ -3289,22 +3049,22 @@
       "depth": 1
     },
     {
-      "id": 9,
-      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-      "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.css",
-      "index": 7,
-      "index2": 6,
-      "size": 7391,
+      "id": 7,
+      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+      "name": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+      "index": 6,
+      "index2": 4,
+      "size": 6804,
       "cacheable": true,
       "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
-        2
+        0
       ],
-      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-      "issuerId": 8,
-      "issuerName": "./src/styles/style.css",
+      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+      "issuerId": 6,
+      "issuerName": "./src/styles/style.min.css",
       "issuerPath": [
         {
           "id": null,
@@ -3312,9 +3072,116 @@
           "name": "./src/scripts/index.js"
         },
         {
+          "id": 6,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "name": "./src/styles/style.min.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 6,
+          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "module": "./src/styles/style.min.css",
+          "moduleName": "./src/styles/style.min.css",
+          "type": "cjs require",
+          "userRequest": "!../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+          "loc": "1:10-94"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "id": 8,
+      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+      "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css",
+      "index": 7,
+      "index2": 6,
+      "size": 7207,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        2
+      ],
+      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+      "issuerId": 6,
+      "issuerName": "./src/styles/style.min.css",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
+          "name": "./src/scripts/index.js"
+        },
+        {
+          "id": 6,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "name": "./src/styles/style.min.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 6,
+          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "module": "./src/styles/style.min.css",
+          "moduleName": "./src/styles/style.min.css",
+          "type": "cjs require",
+          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js!./style.min.css",
+          "loc": "2:26-96"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "id": 9,
+      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "name": "./node_modules/css-loader/dist/runtime/api.js",
+      "index": 8,
+      "index2": 5,
+      "size": 2517,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        1
+      ],
+      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+      "issuerId": 8,
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css",
+      "issuerPath": [
+        {
+          "id": null,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
+          "name": "./src/scripts/index.js"
+        },
+        {
+          "id": 6,
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "name": "./src/styles/style.min.css"
+        },
+        {
           "id": 8,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "name": "./src/styles/style.css"
+          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css"
         }
       ],
       "failed": false,
@@ -3324,12 +3191,12 @@
       "reasons": [
         {
           "moduleId": 8,
-          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.css",
-          "module": "./src/styles/style.css",
-          "moduleName": "./src/styles/style.css",
+          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\style.min.css",
+          "module": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css",
+          "moduleName": "./node_modules/css-loader/dist/cjs.js!./src/styles/style.min.css",
           "type": "cjs require",
-          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js!./style.css",
-          "loc": "2:26-92"
+          "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "2:34-94"
         }
       ],
       "usedExports": true,
@@ -3337,111 +3204,14 @@
       "optimizationBailout": [
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
-      "depth": 2
+      "depth": 3
     },
     {
       "id": 10,
-      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-      "name": "./src/styles/responsive.css",
-      "index": 9,
-      "index2": 9,
-      "size": 530,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        2
-      ],
-      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-      "issuerId": null,
-      "issuerName": "./src/scripts/index.js",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-          "name": "./src/scripts/index.js"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "assets": [],
-      "reasons": [
-        {
-          "moduleId": 14,
-          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
-          "module": "./src/scripts/index.js + 14 modules",
-          "moduleName": "./src/scripts/index.js + 14 modules",
-          "type": "harmony side effect evaluation",
-          "userRequest": "../styles/responsive.css",
-          "loc": "5:0-34"
-        }
-      ],
-      "usedExports": false,
-      "providedExports": null,
-      "optimizationBailout": [
-        "ModuleConcatenation bailout: Module is not an ECMAScript module"
-      ],
-      "depth": 1
-    },
-    {
-      "id": 11,
-      "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-      "name": "./node_modules/css-loader/dist/cjs.js!./src/styles/responsive.css",
-      "index": 10,
-      "index2": 8,
-      "size": 3665,
-      "cacheable": true,
-      "built": true,
-      "optional": false,
-      "prefetched": false,
-      "chunks": [
-        2
-      ],
-      "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-      "issuerId": 10,
-      "issuerName": "./src/styles/responsive.css",
-      "issuerPath": [
-        {
-          "id": null,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
-          "name": "./src/scripts/index.js"
-        },
-        {
-          "id": 10,
-          "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "name": "./src/styles/responsive.css"
-        }
-      ],
-      "failed": false,
-      "errors": 0,
-      "warnings": 0,
-      "assets": [],
-      "reasons": [
-        {
-          "moduleId": 10,
-          "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\styles\\responsive.css",
-          "module": "./src/styles/responsive.css",
-          "moduleName": "./src/styles/responsive.css",
-          "type": "cjs require",
-          "userRequest": "!!../../node_modules/css-loader/dist/cjs.js!./responsive.css",
-          "loc": "2:26-97"
-        }
-      ],
-      "usedExports": true,
-      "providedExports": null,
-      "optimizationBailout": [
-        "ModuleConcatenation bailout: Module is not an ECMAScript module"
-      ],
-      "depth": 2
-    },
-    {
-      "id": 12,
       "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\component\\app-bar.js",
       "name": "./src/scripts/component/app-bar.js",
-      "index": 26,
-      "index2": 24,
+      "index": 24,
+      "index2": 22,
       "size": 5698,
       "cacheable": true,
       "built": true,
@@ -3471,7 +3241,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -3488,11 +3258,11 @@
       "depth": 2
     },
     {
-      "id": 13,
+      "id": 11,
       "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\component\\hero-inner.js",
       "name": "./src/scripts/component/hero-inner.js",
-      "index": 27,
-      "index2": 25,
+      "index": 25,
+      "index2": 23,
       "size": 5200,
       "cacheable": true,
       "built": true,
@@ -3522,7 +3292,7 @@
       "assets": [],
       "reasons": [
         {
-          "moduleId": 14,
+          "moduleId": 12,
           "moduleIdentifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
           "module": "./src/scripts/index.js + 14 modules",
           "moduleName": "./src/scripts/index.js + 14 modules",
@@ -3539,12 +3309,12 @@
       "depth": 2
     },
     {
-      "id": 14,
+      "id": 12,
       "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js 2b2fb3f8a78653c37977c4b5b9ad92a4",
       "name": "./src/scripts/index.js + 14 modules",
       "index": 0,
-      "index2": 29,
-      "size": 32914,
+      "index2": 27,
+      "size": 32907,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -3584,8 +3354,8 @@
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\index.js",
           "name": "./src/scripts/index.js",
           "index": 0,
-          "index2": 29,
-          "size": 607,
+          "index2": 27,
+          "size": 576,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -3621,8 +3391,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\app.js",
           "name": "./src/scripts/views/app.js",
-          "index": 11,
-          "index2": 26,
+          "index": 9,
+          "index2": 24,
           "size": 4718,
           "cacheable": true,
           "built": true,
@@ -3651,7 +3421,7 @@
               "moduleName": "./src/scripts/index.js",
               "type": "harmony side effect evaluation",
               "userRequest": "./views/app",
-              "loc": "6:0-30"
+              "loc": "5:0-30"
             },
             {
               "moduleId": null,
@@ -3660,7 +3430,7 @@
               "moduleName": "./src/scripts/index.js",
               "type": "harmony import specifier",
               "userRequest": "./views/app",
-              "loc": "8:14-17"
+              "loc": "7:14-17"
             }
           ],
           "usedExports": [
@@ -3676,8 +3446,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\utils\\sw-register.js",
           "name": "./src/scripts/utils/sw-register.js",
-          "index": 28,
-          "index2": 28,
+          "index": 26,
+          "index2": 26,
           "size": 1584,
           "cacheable": true,
           "built": true,
@@ -3706,7 +3476,7 @@
               "moduleName": "./src/scripts/index.js",
               "type": "harmony side effect evaluation",
               "userRequest": "./utils/sw-register",
-              "loc": "7:0-45"
+              "loc": "6:0-45"
             },
             {
               "moduleId": null,
@@ -3715,7 +3485,7 @@
               "moduleName": "./src/scripts/index.js",
               "type": "harmony import specifier",
               "userRequest": "./utils/sw-register",
-              "loc": "19:2-12"
+              "loc": "18:2-12"
             }
           ],
           "usedExports": [
@@ -3731,8 +3501,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\utils\\drawer-initiator.js",
           "name": "./src/scripts/utils/drawer-initiator.js",
-          "index": 12,
-          "index2": 10,
+          "index": 10,
+          "index2": 8,
           "size": 673,
           "cacheable": true,
           "built": true,
@@ -3791,8 +3561,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\routes\\url-parser.js",
           "name": "./src/scripts/routes/url-parser.js",
-          "index": 13,
-          "index2": 11,
+          "index": 11,
+          "index2": 9,
           "size": 874,
           "cacheable": true,
           "built": true,
@@ -3869,8 +3639,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\routes\\routes.js",
           "name": "./src/scripts/routes/routes.js",
-          "index": 14,
-          "index2": 23,
+          "index": 12,
+          "index2": 21,
           "size": 277,
           "cacheable": true,
           "built": true,
@@ -3929,8 +3699,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\explore-resto.js",
           "name": "./src/scripts/views/pages/explore-resto.js",
-          "index": 15,
-          "index2": 16,
+          "index": 13,
+          "index2": 14,
           "size": 2361,
           "cacheable": true,
           "built": true,
@@ -4003,8 +3773,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\detail.js",
           "name": "./src/scripts/views/pages/detail.js",
-          "index": 20,
-          "index2": 21,
+          "index": 18,
+          "index2": 19,
           "size": 2952,
           "cacheable": true,
           "built": true,
@@ -4068,8 +3838,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\like.js",
           "name": "./src/scripts/views/pages/like.js",
-          "index": 25,
-          "index2": 22,
+          "index": 23,
+          "index2": 20,
           "size": 2658,
           "cacheable": true,
           "built": true,
@@ -4133,8 +3903,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\data\\restoapi-source.js",
           "name": "./src/scripts/data/restoapi-source.js",
-          "index": 16,
-          "index2": 14,
+          "index": 14,
+          "index2": 12,
           "size": 3573,
           "cacheable": true,
           "built": true,
@@ -4221,9 +3991,9 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\templates\\template-creator.js",
           "name": "./src/scripts/views/templates/template-creator.js",
-          "index": 19,
-          "index2": 15,
-          "size": 3293,
+          "index": 17,
+          "index2": 13,
+          "size": 3322,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4360,8 +4130,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\data\\favoriterestaurant-idb.js",
           "name": "./src/scripts/data/favoriterestaurant-idb.js",
-          "index": 22,
-          "index2": 19,
+          "index": 20,
+          "index2": 17,
           "size": 3928,
           "cacheable": true,
           "built": true,
@@ -4466,8 +4236,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\utils\\like-button-presenter.js",
           "name": "./src/scripts/utils/like-button-presenter.js",
-          "index": 21,
-          "index2": 20,
+          "index": 19,
+          "index2": 18,
           "size": 4831,
           "cacheable": true,
           "built": true,
@@ -4536,17 +4306,17 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\globals\\config.js",
           "name": "./src/scripts/globals/config.js",
-          "index": 18,
-          "index2": 12,
+          "index": 16,
+          "index2": 10,
           "size": 307,
           "cacheable": true,
           "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [],
-          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\data\\favoriterestaurant-idb.js",
+          "issuer": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\templates\\template-creator.js",
           "issuerId": null,
-          "issuerName": "./src/scripts/data/favoriterestaurant-idb.js",
+          "issuerName": "./src/scripts/views/templates/template-creator.js",
           "issuerPath": [
             {
               "id": null,
@@ -4565,13 +4335,13 @@
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\like.js",
-              "name": "./src/scripts/views/pages/like.js"
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\pages\\explore-resto.js",
+              "name": "./src/scripts/views/pages/explore-resto.js"
             },
             {
               "id": null,
-              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\data\\favoriterestaurant-idb.js",
-              "name": "./src/scripts/data/favoriterestaurant-idb.js"
+              "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\views\\templates\\template-creator.js",
+              "name": "./src/scripts/views/templates/template-creator.js"
             }
           ],
           "failed": false,
@@ -4667,7 +4437,7 @@
               "moduleName": "./src/scripts/views/templates/template-creator.js",
               "type": "harmony import specifier",
               "userRequest": "../../globals/config",
-              "loc": "14:224-230"
+              "loc": "14:253-259"
             }
           ],
           "usedExports": [
@@ -4683,8 +4453,8 @@
           "id": null,
           "identifier": "C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\node_modules\\babel-loader\\lib\\index.js??ref--5-0!C:\\Users\\User\\Desktop\\Mata Kuliah\\Kampus Merdeka X Dicoding\\Expert\\Automation Testing\\TESTING\\restaurant-apps\\src\\scripts\\globals\\api-endpoint.js",
           "name": "./src/scripts/globals/api-endpoint.js",
-          "index": 17,
-          "index2": 13,
+          "index": 15,
+          "index2": 11,
           "size": 233,
           "cacheable": true,
           "built": true,
