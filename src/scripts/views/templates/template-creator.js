@@ -43,7 +43,7 @@ const createRestoDetailTemplate = (resto) => `
 const createRestoItemTemplate = (resto) => `
   <div class="resto-item">
     <div class="resto-item__header">
-        <img class="resto-item__header__poster lazyload" alt="${resto.name}"
+        <img class="resto-item__header__poster lazyload" width="640" height="360" alt="${resto.name}"
             data-src="${resto.pictureId ? CONFIG.BASE_IMAGE_URL + resto.pictureId : 'https://picsum.photos/id/666/800/450?grayscale'}">
         <div class="resto-item__header__rating">
             <p>⭐️<span class="resto-item__header__rating__score">${resto.rating}</span></p>

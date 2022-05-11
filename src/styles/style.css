@@ -79,8 +79,7 @@ ul li {
 }
 
 img, img.resto-item__header__poster {
-  max-width: 100%;
-  height: auto;
+  aspect-ratio: attr(width) / attr(height);
 }
 
 
